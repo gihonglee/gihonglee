@@ -1,6 +1,7 @@
 ### Hi there, This is Lee 👋 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
