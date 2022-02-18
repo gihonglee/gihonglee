@@ -1,4 +1,4 @@
-### Hi there this is lee👋
+### Hi there this is Lee👋
 
 <!--
 **gihonglee/gihonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
