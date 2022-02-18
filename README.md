@@ -1,5 +1,6 @@
 ### Hi there👋 This is Lee
-
+<span style="color:blue">some *blue* text</span>
+<span style="color:red">some **This is Red Bold.** text</span>
 ```diff
 - text in red
 + text in green
