@@ -1,4 +1,5 @@
-### Hi there this is Lee👋
+### Hi there👋
+### This is Lee
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
