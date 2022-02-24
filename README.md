@@ -4,6 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ML project, Dog_Breed_Recommendation
+- ⚡ Fun fact: My goal this year is to make 365 streak!
 
 
 <!--
