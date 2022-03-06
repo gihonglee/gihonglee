@@ -5,7 +5,13 @@
 
 - 🔭 I’m currently working on ML project, Dog_Breed_Recommendation
 - ⚡ Fun fact: My goal this year is to make 365 streak!
+- 🌱 Project 2022:
 
+   Mar : (coming soon)
+   
+   Feb : Dog Breed Recommendation
+   
+   Jan : Indeed Web Scrapping
 
 <!--
 **gihonglee/gihonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
