@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My goal this year is to make 365 streak!
 - 🌱 Project 2022:
 
-   Mar : Housing Price Prediction Project (ing)
+   Mar : Housing Price Prediction Project (In Progress)
    
    Feb : Dog Breed Recommendation
    
