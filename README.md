@@ -4,7 +4,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on Housing Price Prediction Project
-- ⚡ Fun fact: My goal this year is to make 365 streak!
+- ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
    Mar : Housing Price Prediction Project (In Progress...)
