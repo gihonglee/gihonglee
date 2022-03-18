@@ -11,7 +11,7 @@
    
    Feb : Dog Breed Recommendation
    
-   Jan : Indeed Web Scrapping
+   Jan : Indeed Web Scrapping, Salary Regression
 
 <!--
 **gihonglee/gihonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
