@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
-   Mar : Housing Price Prediction Project, NLP Study (in progress ...)
+   Mar : Housing Price Prediction Project, NLP Study & Django (in progress ...)
    
    Feb : Dog Breed Recommendation
    
