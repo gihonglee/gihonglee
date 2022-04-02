@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on NLP Study. https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
+
    Apr : Website building using Django, Time Series Analysis, Regression Project
 
    Mar : Housing Price Prediction Project, SMS Spam Detection
