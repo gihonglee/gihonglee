@@ -18,9 +18,13 @@
    Jan : Indeed Web Scrapping, Salary Regression
 
 - 🤔 Future Project Ideas : 
-- 
-   1) Algorithm that convert from Sound to Image
-   2) AI for Gaming
+
+   Algorithm that convert from Sound to Image
+   AI for Gaming
+   Bitcoin Auto Trading
+   
+   
+   
 <!--
 **gihonglee/gihonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
