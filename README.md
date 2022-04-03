@@ -7,6 +7,8 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
+   Future Project Ideas : Algorithm that convert from Sound to Image, AI for Gaming
+
    Apr : Website building using Django, Time Series Analysis, Regression Project
 
    Mar : Housing Price Prediction Project, SMS Spam Detection
