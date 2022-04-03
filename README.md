@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
-   Future Project Ideas : Algorithm that convert from Sound to Image, AI for Gaming
+   
 
    Apr (In progress...) : Website building using Django, Time Series Analysis, Regression Project
 
@@ -17,6 +17,10 @@
    
    Jan : Indeed Web Scrapping, Salary Regression
 
+- 🤔 Future Project Ideas : 
+- 
+   1) Algorithm that convert from Sound to Image
+   2) AI for Gaming
 <!--
 **gihonglee/gihonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
