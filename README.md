@@ -9,7 +9,7 @@
 
    Future Project Ideas : Algorithm that convert from Sound to Image, AI for Gaming
 
-   Apr : Website building using Django, Time Series Analysis, Regression Project
+   Apr (In progress...) : Website building using Django, Time Series Analysis, Regression Project
 
    Mar : Housing Price Prediction Project, SMS Spam Detection
    
