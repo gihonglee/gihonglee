@@ -20,8 +20,11 @@
 - 🤔 Future Project Ideas : 
 
    Algorithm that convert from Sound to Image
+   
    AI for Gaming
+   
    Bitcoin Auto Trading
+   
    
    
    
