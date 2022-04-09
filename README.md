@@ -17,7 +17,7 @@
    
    Jan : Indeed Web Scrapping, Salary Regression
 
-- 🤔 Future Project Ideas : 
+- ⚡ Future Project Ideas : 
 
    Algorithm that convert from Sound to Image
    
