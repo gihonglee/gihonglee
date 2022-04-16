@@ -9,7 +9,7 @@
 
    
 
-   Apr (In progress...) : Website building using Django, Time Series Analysis, Regression Project
+   Apr (In progress...) : Website building using Django, MLB Data Analysis
 
    Mar : Housing Price Prediction Project, SMS Spam Detection
    
@@ -24,6 +24,10 @@
    AI for Gaming
    
    Bitcoin Auto Trading
+   
+   Time Series Analysis
+   
+   Regression Project
    
    
    
