@@ -7,9 +7,9 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
-   
+   May : NYSE Stock Analysis 
 
-   Apr (In progress...) : Website building using Django, MLB Data Analysis
+   Apr : MLB Data Analysis
 
    Mar : Housing Price Prediction Project, SMS Spam Detection
    
