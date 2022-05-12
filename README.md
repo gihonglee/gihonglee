@@ -7,7 +7,7 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
-   May : NYSE Stock Analysis 
+   May : NYSE Stock Time Series Analysis
 
    Apr : MLB Data Analysis
 
