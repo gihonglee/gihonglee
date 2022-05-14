@@ -25,8 +25,6 @@
    
    Bitcoin Auto Trading
    
-   Time Series Analysis
-   
    Regression Project
    
    
