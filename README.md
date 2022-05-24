@@ -3,7 +3,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
 
-- 🔭 Website building using Django
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
