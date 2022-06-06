@@ -1,4 +1,4 @@
-### Hi my name is Lee 👋 
+### Hi my name is Chris 👋 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
