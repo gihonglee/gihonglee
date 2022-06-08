@@ -6,7 +6,7 @@
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
 
-   June : Algorithm that convert from Sound to Image
+   June : Algorithm that convert from Sound to Image 
 
    May : NYSE Stock Time Series Analysis
 
