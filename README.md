@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
+   
+   July : Regression Project
 
    June : Algorithm that convert from Sound to Image 
 
