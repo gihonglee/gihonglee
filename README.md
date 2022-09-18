@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact: My goal this year is to make 300 streak!
 - 🌱 Project 2022:
+
+   Sep : Streamlit Dog Breed Recommendation Web-App
    
    July : Regression Project
 
