@@ -1,36 +1,7 @@
 ### Hi my name is Chris 👋 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats)
-
-- ⚡ Fun fact: My goal this year is to make 300 streak!
-- 🌱 Project 2022:
-
-   Sep : Streamlit Dog Breed Recommendation Web-App
-   
-   July : Regression Project
-
-   June : Algorithm that convert from Sound to Image 
-
-   May : NYSE Stock Time Series Analysis
-
-   Apr : MLB Data Analysis
-
-   Mar : Housing Price Prediction Project, SMS Spam Detection
-   
-   Feb : Dog Breed Recommendation
-   
-   Jan : Indeed Web Scrapping, Salary Regression
-
-- ⚡ Future Project Ideas : 
-
-   AI for Gaming
-   
-   Bitcoin Auto Trading
-   
-   Regression Project
-   
-   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gihonglee)](https://git.io/streak-stats) 
    
    
 <!--
